@@ -4,7 +4,6 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		
 		System.out.println("git config --global user.name \"name\"");
         System.out.println("git config --global user.email \"email\"");
         System.out.println("git config --list");
