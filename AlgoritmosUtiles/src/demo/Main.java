@@ -19,5 +19,8 @@ public class Main {
         System.out.println("git branch -D");
         System.out.println("git branch --delete");
         System.out.println("git merge");
+
+
+		for(int i=8;i>=0;i--){System.out.println("grommit");}
 	}
 }
